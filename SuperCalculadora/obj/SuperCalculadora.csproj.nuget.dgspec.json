@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro.neto10\\source\\repos\\SuperCalculadora\\SuperCalculadora.csproj": {}
+    "C:\\Users\\joao.mendes3\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro.neto10\\source\\repos\\SuperCalculadora\\SuperCalculadora.csproj": {
+    "C:\\Users\\joao.mendes3\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.neto10\\source\\repos\\SuperCalculadora\\SuperCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\joao.mendes3\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
         "projectName": "SuperCalculadora",
-        "projectPath": "C:\\Users\\pedro.neto10\\source\\repos\\SuperCalculadora\\SuperCalculadora.csproj",
-        "packagesPath": "C:\\Users\\pedro.neto10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.neto10\\source\\repos\\SuperCalculadora\\obj\\",
+        "projectPath": "C:\\Users\\joao.mendes3\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
+        "packagesPath": "C:\\Users\\joao.mendes3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joao.mendes3\\SuperCalculadora\\SuperCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pedro.neto10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joao.mendes3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
