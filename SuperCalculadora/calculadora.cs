@@ -65,7 +65,27 @@ namespace SuperCalculadora
 
             public void Multiplicar()
             {
-                // Vou implementar
+                Console.WriteLine("Digite um número para ser o multiplicador da divisão");
+                input = Console.ReadLine();
+                if (decimal.TryParse(input, out num1))
+                { }
+                else
+                {
+                    Console.WriteLine("Você não digitou um número, então o cálculo será encerrado");
+                    return;
+                };
+
+                Console.WriteLine("Digite um número para ser o multiplicador da divisão");
+                input = Console.ReadLine();
+                if (decimal.TryParse(input, out num2))
+                { }
+                else
+                {
+                    Console.WriteLine("Você não digitou um número, então o cálculo será encerrado");
+                    return;
+                };
+
+                Console.WriteLine($"O resultado da multiplicação é: {num1 / num2}");
             }
         }
         public static void Executor() 
