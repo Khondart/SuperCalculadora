@@ -62,7 +62,6 @@ namespace SuperCalculadora
 
                 Console.WriteLine($"O resultado da subtração é: {num1 - num2}");
             }
-
             public void Multiplicar()
             {
                 Console.WriteLine("Digite um número para ser o multiplicador da divisão");
@@ -87,12 +86,39 @@ namespace SuperCalculadora
 
                 Console.WriteLine($"O resultado da multiplicação é: {num1 / num2}");
             }
+            public void Soma()
+            {
+                Console.WriteLine("Digite o primeiro número para a soma:");
+                input = Console.ReadLine();
+                if (decimal.TryParse(input, out num1))
+                { }
+                else
+                {
+                    Console.WriteLine("Você não digitou um número, então o cálculo será encerrado.");
+                    return;
+                };
+
+                Console.WriteLine("Digite o segundo número para a soma:");
+                input = Console.ReadLine();
+                if (decimal.TryParse(input, out num2))
+                { }
+                else
+                {
+                    Console.WriteLine("Você não digitou um número, então o cálculo será encerrado.");
+                    return;
+                };
+
+                Console.WriteLine($"O resultado da soma é: {num1 + num2}");
+            }
+
         }
         public static void Executor() 
         {
             var cal = new calculadora();
             cal.Divisao();
             cal.Subtrair();
+            cal.Soma();
+            cal.Multiplicar();
         }
     }
 }
