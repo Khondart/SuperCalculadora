@@ -62,6 +62,11 @@ namespace SuperCalculadora
 
                 Console.WriteLine($"O resultado da subtração é: {num1 - num2}");
             }
+
+            public void Multiplicar()
+            {
+                // Vou implementar
+            }
         }
         public static void Executor() 
         {
