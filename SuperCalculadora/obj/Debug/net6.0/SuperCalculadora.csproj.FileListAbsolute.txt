@@ -13,3 +13,18 @@ C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\clone_calculadora\Su
 C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\clone_calculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.pdb
 C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\clone_calculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.genruntimeconfig.cache
 C:\Users\artur.cavalcante\OneDrive - SENAC-SC\Documentos\C#\clone_calculadora\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\ref\SuperCalculadora.dll
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.exe
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.deps.json
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.runtimeconfig.json
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.dll
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\bin\Debug\net6.0\SuperCalculadora.pdb
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.AssemblyInfoInputs.cache
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.AssemblyInfo.cs
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.sourcelink.json
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.dll
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\refint\SuperCalculadora.dll
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.pdb
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\SuperCalculadora.genruntimeconfig.cache
+C:\Users\joaog\SuperCalculadora\SuperCalculadora\obj\Debug\net6.0\ref\SuperCalculadora.dll

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yxZYe3vMW406IZ0dyFiUxqgjbFBQrcaWvdj/QlnBa8jyE+ov7Oyea06UeKkX90c3IVRYderoqzVg0qK+4xLilQ==",
+  "dgSpecHash": "M1ICcJ1Mv28=",
   "success": true,
-  "projectFilePath": "C:\\Users\\artur.cavalcante\\OneDrive - SENAC-SC\\Documentos\\C#\\clone_calculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\joaog\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

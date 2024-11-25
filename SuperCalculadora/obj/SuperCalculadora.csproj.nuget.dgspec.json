@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artur.cavalcante\\OneDrive - SENAC-SC\\Documentos\\C#\\clone_calculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {}
+    "C:\\Users\\joaog\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artur.cavalcante\\OneDrive - SENAC-SC\\Documentos\\C#\\clone_calculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {
+    "C:\\Users\\joaog\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artur.cavalcante\\OneDrive - SENAC-SC\\Documentos\\C#\\clone_calculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\joaog\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
         "projectName": "SuperCalculadora",
-        "projectPath": "C:\\Users\\artur.cavalcante\\OneDrive - SENAC-SC\\Documentos\\C#\\clone_calculadora\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
-        "packagesPath": "C:\\Users\\artur.cavalcante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artur.cavalcante\\OneDrive - SENAC-SC\\Documentos\\C#\\clone_calculadora\\SuperCalculadora\\SuperCalculadora\\obj\\",
+        "projectPath": "C:\\Users\\joaog\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
+        "packagesPath": "C:\\Users\\joaog\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaog\\SuperCalculadora\\SuperCalculadora\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\artur.cavalcante\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\joaog\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,12 +56,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
